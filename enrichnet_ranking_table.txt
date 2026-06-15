@@ -1,0 +1,197 @@
+"Annotation (pathway/process)"	"XD-score"	"Fisher q-value"	"Gene set size"	"Pathway size"	"Overlap size"
+"hsa04320:Dorso-ventral axis formation"	0.356234361968307	1	42	24	1
+"hsa04621:NOD-like receptor signaling pathway"	0.281234361968307	0.355508893878582	42	60	2
+"hsa04622:RIG-I-like receptor signaling pathway"	0.234755488728870	0.370174966432428	42	71	2
+"hsa05144:Malaria"	0.168734361968307	1	42	48	1
+"hsa04623:Cytosolic DNA-sensing pathway"	0.147901028634974	1	42	54	1
+"hsa04062:Chemokine signaling pathway"	0.126395652290887	0.355508893878582	42	186	3
+"hsa05214:Glioma"	0.124091504825450	1	42	63	1
+"hsa04060:Cytokine-cytokine receptor interaction"	0.119165396451065	0.193134821711665	42	261	4
+"hsa05218:Melanoma"	0.113587303144777	1	42	68	1
+"hsa04610:Complement and coagulation cascades"	0.111669144577003	1	42	69	1
+"hsa04540:Gap junction"	0.0858855247590044	1	42	86	1
+"hsa05215:Prostate cancer"	0.0846826378303758	1	42	87	1
+"hsa00240:Pyrimidine metabolism"	0.0769790428193707	1	42	94	1
+"hsa04620:Toll-like receptor signaling pathway"	0.070343272859396	1	42	101	1
+"hsa05142:Chagas disease"	0.0686130027450059	1	42	103	1
+"hsa04142:Lysosome"	0.0562343619683069	1	42	120	1
+"hsa04514:Cell adhesion molecules (CAMs)"	0.0499366520446427	1	42	131	1
+"hsa04020:Calcium signaling pathway"	0.0332574833555900	1	42	173	1
+"hsa04510:Focal adhesion"	0.0269196411561241	1	42	197	1
+"hsa04810:Regulation of actin cytoskeleton"	0.0245035927375376	1	42	208	1
+"hsa04010:MAPK signaling pathway"	0.0154548942876984	1	42	263	1
+"hsa05200:Pathways in cancer"	0.00918467252731304	1	42	322	1
+"hsa01100:Metabolic pathways"	-0.0104553887242139	1	42	1083	1
+"hsa00983:Drug metabolism - other enzymes"	-0.0187656380316932	1	42	50	0
+"hsa00230:Purine metabolism"	-0.0187656380316932	1	42	158	0
+"hsa05340:Primary immunodeficiency"	-0.0187656380316932	1	42	33	0
+"hsa05412:Arrhythmogenic right ventricular cardiomyopathy (ARVC)"	-0.0187656380316932	1	42	73	0
+"hsa04012:ErbB signaling pathway"	-0.0187656380316932	1	42	87	0
+"hsa04150:mTOR signaling pathway"	-0.0187656380316932	1	42	51	0
+"hsa04210:Apoptosis"	-0.0187656380316932	1	42	87	0
+"hsa04370:VEGF signaling pathway"	-0.0187656380316932	1	42	75	0
+"hsa04530:Tight junction"	-0.0187656380316932	1	42	130	0
+"hsa04630:Jak-STAT signaling pathway"	-0.0187656380316932	1	42	154	0
+"hsa04660:T cell receptor signaling pathway"	-0.0187656380316932	1	42	108	0
+"hsa04662:B cell receptor signaling pathway"	-0.0187656380316932	1	42	74	0
+"hsa04664:Fc epsilon RI signaling pathway"	-0.0187656380316932	1	42	77	0
+"hsa04666:Fc gamma R-mediated phagocytosis"	-0.0187656380316932	1	42	91	0
+"hsa04722:Neurotrophin signaling pathway"	-0.0187656380316932	1	42	124	0
+"hsa04910:Insulin signaling pathway"	-0.0187656380316932	1	42	134	0
+"hsa04914:Progesterone-mediated oocyte maturation"	-0.0187656380316932	1	42	84	0
+"hsa04920:Adipocytokine signaling pathway"	-0.0187656380316932	1	42	67	0
+"hsa05210:Colorectal cancer"	-0.0187656380316932	1	42	62	0
+"hsa05211:Renal cell carcinoma"	-0.0187656380316932	1	42	70	0
+"hsa05212:Pancreatic cancer"	-0.0187656380316932	1	42	70	0
+"hsa05213:Endometrial cancer"	-0.0187656380316932	1	42	52	0
+"hsa05220:Chronic myeloid leukemia"	-0.0187656380316932	1	42	71	0
+"hsa05221:Acute myeloid leukemia"	-0.0187656380316932	1	42	54	0
+"hsa05222:Small cell lung cancer"	-0.0187656380316932	1	42	84	0
+"hsa05223:Non-small cell lung cancer"	-0.0187656380316932	1	42	52	0
+"hsa04146:Peroxisome"	-0.0187656380316932	1	42	74	0
+"hsa00520:Amino sugar and nucleotide sugar metabolism"	-0.0187656380316932	1	42	44	0
+"hsa00190:Oxidative phosphorylation"	-0.0187656380316932	1	42	125	0
+"hsa04260:Cardiac muscle contraction"	-0.0187656380316932	1	42	74	0
+"hsa05010:Alzheimer's disease"	-0.0187656380316932	1	42	159	0
+"hsa05012:Parkinson's disease"	-0.0187656380316932	1	42	124	0
+"hsa05016:Huntington's disease"	-0.0187656380316932	1	42	173	0
+"hsa03050:Proteasome"	-0.0187656380316932	1	42	43	0
+"hsa04145:Phagosome"	-0.0187656380316932	1	42	144	0
+"hsa04612:Antigen processing and presentation"	-0.0187656380316932	1	42	66	0
+"hsa04672:Intestinal immune network for IgA production"	-0.0187656380316932	1	42	49	0
+"hsa04940:Type I diabetes mellitus"	-0.0187656380316932	1	42	42	0
+"hsa05140:Leishmaniasis"	-0.0187656380316932	1	42	72	0
+"hsa05310:Asthma"	-0.0187656380316932	1	42	31	0
+"hsa05320:Autoimmune thyroid disease"	-0.0187656380316932	1	42	52	0
+"hsa05322:Systemic lupus erythematosus"	-0.0187656380316932	1	42	91	0
+"hsa05330:Allograft rejection"	-0.0187656380316932	1	42	37	0
+"hsa05332:Graft-versus-host disease"	-0.0187656380316932	1	42	40	0
+"hsa05416:Viral myocarditis"	-0.0187656380316932	1	42	70	0
+"hsa00564:Glycerophospholipid metabolism"	-0.0187656380316932	1	42	74	0
+"hsa00565:Ether lipid metabolism"	-0.0187656380316932	1	42	32	0
+"hsa00590:Arachidonic acid metabolism"	-0.0187656380316932	1	42	52	0
+"hsa00591:Linoleic acid metabolism"	-0.0187656380316932	1	42	28	0
+"hsa00592:alpha-Linolenic acid metabolism"	-0.0187656380316932	1	42	18	0
+"hsa04270:Vascular smooth muscle contraction"	-0.0187656380316932	1	42	112	0
+"hsa04730:Long-term depression"	-0.0187656380316932	1	42	68	0
+"hsa04912:GnRH signaling pathway"	-0.0187656380316932	1	42	98	0
+"hsa04144:Endocytosis"	-0.0187656380316932	1	42	194	0
+"hsa04310:Wnt signaling pathway"	-0.0187656380316932	1	42	150	0
+"hsa00563:Glycosylphosphatidylinositol(GPI)-anchor biosynthesis"	-0.0187656380316932	1	42	25	0
+"hsa00601:Glycosphingolipid biosynthesis - lacto and neolacto series"	-0.0187656380316932	1	42	25	0
+"hsa04141:Protein processing in endoplasmic reticulum"	-0.0187656380316932	1	42	157	0
+"hsa04670:Leukocyte transendothelial migration"	-0.0187656380316932	1	42	113	0
+"hsa03410:Base excision repair"	-0.0187656380316932	1	42	33	0
+"hsa04120:Ubiquitin mediated proteolysis"	-0.0187656380316932	1	42	133	0
+"hsa00970:Aminoacyl-tRNA biosynthesis"	-0.0187656380316932	1	42	38	0
+"hsa02010:ABC transporters"	-0.0187656380316932	1	42	43	0
+"hsa05100:Bacterial invasion of epithelial cells"	-0.0187656380316932	1	42	68	0
+"hsa03320:PPAR signaling pathway"	-0.0187656380316932	1	42	69	0
+"hsa03040:Spliceosome"	-0.0187656380316932	1	42	117	0
+"hsa00532:Glycosaminoglycan biosynthesis - chondroitin sulfate"	-0.0187656380316932	1	42	22	0
+"hsa05130:Pathogenic Escherichia coli infection"	-0.0187656380316932	1	42	52	0
+"hsa05131:Shigellosis"	-0.0187656380316932	1	42	60	0
+"hsa03440:Homologous recombination"	-0.0187656380316932	1	42	28	0
+"hsa03450:Non-homologous end-joining"	-0.0187656380316932	1	42	13	0
+"hsa00760:Nicotinate and nicotinamide metabolism"	-0.0187656380316932	1	42	24	0
+"hsa04360:Axon guidance"	-0.0187656380316932	1	42	128	0
+"hsa00310:Lysine degradation"	-0.0187656380316932	1	42	46	0
+"hsa04080:Neuroactive ligand-receptor interaction"	-0.0187656380316932	1	42	269	0
+"hsa04520:Adherens junction"	-0.0187656380316932	1	42	72	0
+"hsa00533:Glycosaminoglycan biosynthesis - keratan sulfate"	-0.0187656380316932	1	42	15	0
+"hsa04110:Cell cycle"	-0.0187656380316932	1	42	122	0
+"hsa04114:Oocyte meiosis"	-0.0187656380316932	1	42	107	0
+"hsa04115:p53 signaling pathway"	-0.0187656380316932	1	42	67	0
+"hsa00830:Retinol metabolism"	-0.0187656380316932	1	42	61	0
+"hsa05219:Bladder cancer"	-0.0187656380316932	1	42	40	0
+"hsa00510:N-Glycan biosynthesis"	-0.0187656380316932	1	42	47	0
+"hsa05120:Epithelial cell signaling in Helicobacter pylori infection"	-0.0187656380316932	1	42	65	0
+"hsa03018:RNA degradation"	-0.0187656380316932	1	42	56	0
+"hsa03420:Nucleotide excision repair"	-0.0187656380316932	1	42	43	0
+"hsa04130:SNARE interactions in vesicular transport"	-0.0187656380316932	1	42	35	0
+"hsa05217:Basal cell carcinoma"	-0.0187656380316932	1	42	55	0
+"hsa04350:TGF-beta signaling pathway"	-0.0187656380316932	1	42	84	0
+"hsa04966:Collecting duct acid secretion"	-0.0187656380316932	1	42	25	0
+"hsa05110:Vibrio cholerae infection"	-0.0187656380316932	1	42	52	0
+"hsa00603:Glycosphingolipid biosynthesis - globo series"	-0.0187656380316932	1	42	14	0
+"hsa04512:ECM-receptor interaction"	-0.0187656380316932	1	42	83	0
+"hsa05146:Amoebiasis"	-0.0187656380316932	1	42	102	0
+"hsa00010:Glycolysis / Gluconeogenesis"	-0.0187656380316932	1	42	62	0
+"hsa00561:Glycerolipid metabolism"	-0.0187656380316932	1	42	46	0
+"hsa05216:Thyroid cancer"	-0.0187656380316932	1	42	26	0
+"hsa00380:Tryptophan metabolism"	-0.0187656380316932	1	42	39	0
+"hsa00270:Cysteine and methionine metabolism"	-0.0187656380316932	1	42	34	0
+"hsa00430:Taurine and hypotaurine metabolism"	-0.0187656380316932	1	42	10	0
+"hsa05410:Hypertrophic cardiomyopathy (HCM)"	-0.0187656380316932	1	42	82	0
+"hsa05414:Dilated cardiomyopathy"	-0.0187656380316932	1	42	89	0
+"hsa00920:Sulfur metabolism"	-0.0187656380316932	1	42	12	0
+"hsa04070:Phosphatidylinositol signaling system"	-0.0187656380316932	1	42	75	0
+"hsa04720:Long-term potentiation"	-0.0187656380316932	1	42	68	0
+"hsa00562:Inositol phosphate metabolism"	-0.0187656380316932	1	42	56	0
+"hsa00071:Fatty acid metabolism"	-0.0187656380316932	1	42	41	0
+"hsa00280:Valine, leucine and isoleucine degradation"	-0.0187656380316932	1	42	44	0
+"hsa04650:Natural killer cell mediated cytotoxicity"	-0.0187656380316932	1	42	130	0
+"hsa05014:Amyotrophic lateral sclerosis (ALS)"	-0.0187656380316932	1	42	51	0
+"hsa04916:Melanogenesis"	-0.0187656380316932	1	42	99	0
+"hsa04962:Vasopressin-regulated water reabsorption"	-0.0187656380316932	1	42	44	0
+"hsa04140:Regulation of autophagy"	-0.0187656380316932	1	42	33	0
+"hsa03030:DNA replication"	-0.0187656380316932	1	42	36	0
+"hsa00600:Sphingolipid metabolism"	-0.0187656380316932	1	42	39	0
+"hsa00100:Steroid biosynthesis"	-0.0187656380316932	1	42	17	0
+"hsa00670:One carbon pool by folate"	-0.0187656380316932	1	42	17	0
+"hsa03020:RNA polymerase"	-0.0187656380316932	1	42	28	0
+"hsa03022:Basal transcription factors"	-0.0187656380316932	1	42	34	0
+"hsa00900:Terpenoid backbone biosynthesis"	-0.0187656380316932	1	42	15	0
+"hsa04330:Notch signaling pathway"	-0.0187656380316932	1	42	47	0
+"hsa04970:Salivary secretion"	-0.0187656380316932	1	42	83	0
+"hsa04971:Gastric acid secretion"	-0.0187656380316932	1	42	71	0
+"hsa03430:Mismatch repair"	-0.0187656380316932	1	42	23	0
+"hsa00040:Pentose and glucuronate interconversions"	-0.0187656380316932	1	42	27	0
+"hsa00053:Ascorbate and aldarate metabolism"	-0.0187656380316932	1	42	25	0
+"hsa00140:Steroid hormone biosynthesis"	-0.0187656380316932	1	42	54	0
+"hsa00500:Starch and sucrose metabolism"	-0.0187656380316932	1	42	49	0
+"hsa00860:Porphyrin and chlorophyll metabolism"	-0.0187656380316932	1	42	42	0
+"hsa00980:Metabolism of xenobiotics by cytochrome P450"	-0.0187656380316932	1	42	67	0
+"hsa00982:Drug metabolism - cytochrome P450"	-0.0187656380316932	1	42	68	0
+"hsa00450:Selenoamino acid metabolism"	-0.0187656380316932	1	42	25	0
+"hsa00630:Glyoxylate and dicarboxylate metabolism"	-0.0187656380316932	1	42	16	0
+"hsa04740:Olfactory transduction"	-0.0187656380316932	1	42	357	0
+"hsa00511:Other glycan degradation"	-0.0187656380316932	1	42	16	0
+"hsa00340:Histidine metabolism"	-0.0187656380316932	1	42	28	0
+"hsa00531:Glycosaminoglycan degradation"	-0.0187656380316932	1	42	19	0
+"hsa00120:Primary bile acid biosynthesis"	-0.0187656380316932	1	42	16	0
+"hsa00620:Pyruvate metabolism"	-0.0187656380316932	1	42	40	0
+"hsa03060:Protein export"	-0.0187656380316932	1	42	23	0
+"hsa05020:Prion diseases"	-0.0187656380316932	1	42	35	0
+"hsa01040:Biosynthesis of unsaturated fatty acids"	-0.0187656380316932	1	42	21	0
+"hsa04964:Proximal tubule bicarbonate reclamation"	-0.0187656380316932	1	42	21	0
+"hsa00260:Glycine, serine and threonine metabolism"	-0.0187656380316932	1	42	31	0
+"hsa04742:Taste transduction"	-0.0187656380316932	1	42	49	0
+"hsa03010:Ribosome"	-0.0187656380316932	1	42	87	0
+"hsa00512:O-Glycan biosynthesis"	-0.0187656380316932	1	42	30	0
+"hsa00910:Nitrogen metabolism"	-0.0187656380316932	1	42	21	0
+"hsa00330:Arginine and proline metabolism"	-0.0187656380316932	1	42	52	0
+"hsa00534:Glycosaminoglycan biosynthesis - heparan sulfate"	-0.0187656380316932	1	42	25	0
+"hsa00350:Tyrosine metabolism"	-0.0187656380316932	1	42	39	0
+"hsa00650:Butanoate metabolism"	-0.0187656380316932	1	42	30	0
+"hsa00480:Glutathione metabolism"	-0.0187656380316932	1	42	44	0
+"hsa04614:Renin-angiotensin system"	-0.0187656380316932	1	42	17	0
+"hsa04340:Hedgehog signaling pathway"	-0.0187656380316932	1	42	56	0
+"hsa00250:Alanine, aspartate and glutamate metabolism"	-0.0187656380316932	1	42	32	0
+"hsa04930:Type II diabetes mellitus"	-0.0187656380316932	1	42	46	0
+"hsa04744:Phototransduction"	-0.0187656380316932	1	42	27	0
+"hsa04640:Hematopoietic cell lineage"	-0.0187656380316932	1	42	87	0
+"hsa04710:Circadian rhythm - mammal"	-0.0187656380316932	1	42	22	0
+"hsa00020:Citrate cycle (TCA cycle)"	-0.0187656380316932	1	42	30	0
+"hsa00640:Propanoate metabolism"	-0.0187656380316932	1	42	32	0
+"hsa00360:Phenylalanine metabolism"	-0.0187656380316932	1	42	16	0
+"hsa04950:Maturity onset diabetes of the young"	-0.0187656380316932	1	42	24	0
+"hsa00790:Folate biosynthesis"	-0.0187656380316932	1	42	11	0
+"hsa00410:beta-Alanine metabolism"	-0.0187656380316932	1	42	22	0
+"hsa00770:Pantothenate and CoA biosynthesis"	-0.0187656380316932	1	42	16	0
+"hsa00051:Fructose and mannose metabolism"	-0.0187656380316932	1	42	33	0
+"hsa00030:Pentose phosphate pathway"	-0.0187656380316932	1	42	26	0
+"hsa00052:Galactose metabolism"	-0.0187656380316932	1	42	26	0
+"hsa04960:Aldosterone-regulated sodium reabsorption"	-0.0187656380316932	1	42	39	0
+"hsa00604:Glycosphingolipid biosynthesis - ganglio series"	-0.0187656380316932	1	42	14	0
+"hsa00740:Riboflavin metabolism"	-0.0187656380316932	1	42	16	0
